@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'DomaineSans-Light';
+  src: url('Fonts/DomaineSans-light-webfont.woff2') format('woff2'),
+       url('Fonts/DomaineSans-light-webfont.woff') format('woff'),
+       url('Fonts/DomaineSans-light-webfont.ttf') format('truetype');
+}
